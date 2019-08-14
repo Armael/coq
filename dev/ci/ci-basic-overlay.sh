@@ -221,7 +221,7 @@
 ########################################################################
 # Equations
 ########################################################################
-: "${equations_CI_REF:=3a5f7384b25d621d09ab1083926b064ff9d7635c}"
+: "${equations_CI_REF:=58d745fcdb976190abe94dc1882fe395490d9018}"
 : "${equations_CI_GITURL:=https://github.com/mattam82/Coq-Equations}"
 : "${equations_CI_ARCHIVEURL:=${equations_CI_GITURL}/archive}"
 
